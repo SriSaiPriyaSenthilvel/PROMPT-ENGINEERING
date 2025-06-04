@@ -104,7 +104,8 @@ Video Applications
 Video Generation OpenAI’s Sora attracted significant attention with its impressive video generation capabilities.2
 Video Prediction A GAN-based video prediction system: *Comprehends both temporal and spatial elements of a video *Generates the next sequence based on that knowledge (See the figure below) *Distinguishes between probable and non-probable sequences GAN-based video predictions can help detect anomalies that are needed in a wide range of sectors, such as security and surveillance.
 
-![image](https://github.com/user-attachments/assets/e7ccc7c9-a44a-4d37-a4d1-e4c81ca13727)
+![image](https://github.com/user-attachments/assets/9dad3b7c-c69a-46f6-9c7e-e70916ea6bdb)
+
 
 Image Applications
 
@@ -127,8 +128,8 @@ Code-based Applications
 Code generation
 Another application of generative AI is in software development owing to its capacity to produce code without the need for manual coding. Developing code is possible through this quality not only for professionals but also for non-technical people.
 
-![image](https://github.com/user-attachments/assets/9dad3b7c-c69a-46f6-9c7e-e70916ea6bdb)
 
+![image](https://github.com/user-attachments/assets/e7ccc7c9-a44a-4d37-a4d1-e4c81ca13727)
 Other Applications
 
 Conversational AI
